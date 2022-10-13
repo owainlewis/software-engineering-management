@@ -1,2 +1,5 @@
-# softwareengineeringmanager
-Software Engineering Management Courses
+# Software Engineering Manager
+
+Source for softwareengineeringmanager.com. 
+
+
