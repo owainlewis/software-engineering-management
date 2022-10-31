@@ -17,8 +17,9 @@ This list contains resources for software engineering leaders to level up. Being
 There are many ways to structure engineering teams and the right choice depends on your particular business needs. Here are some of the common approaches to structuring engineering teams
 
 - Feature teams: Cross functional teams that are able to deliver features end to end and may work across many different services to get things done.
-- Component teams: Teams that have full ownership over a compoment or serivce.
-- Platform / enabling teams: A team that provides tools or platforms to support other engineering teams 
+- Component teams: Teams that have full ownership over one or more compoments or serivces.
+- Platform teams: A team that provides a platform used by other engineering teams e.g. maintaining a Kuberentes cluster for other teams to deploy to.
+- SRE / Operations teams: A team dedicated to operations 
 
 ## Ten characteristics of well-functioning teams
 - Purpose: Members proudly share a sense of why the team exists and are invested in accomplishing its mission and goals.
