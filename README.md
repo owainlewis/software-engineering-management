@@ -29,6 +29,13 @@ This list contains resources for software engineering leaders to level up. Being
 ## Onboarding
 ## Engineering Team Metrics
 
+### DORA Metrics
+DORA metrics are used by DevOps teams to measure their performance and find out whether they are “low performers” to “elite performers”. The four metrics used are:
+- Deployment Frequency: Refers to the frequency of successful software releases to production.
+- Lead Time for Changes: Captures the time between a code change commit and its deployable state.
+- Mean Time to Recovery: Measures the time between an interruption due to deployment or system failure and full recovery.
+- Change Failure Rate: Indicates how often a team’s changes or hotfixes lead to failures after the code has been deployed.
+
 # Managing Projects
 
 # Managment And Leadership Skills
