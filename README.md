@@ -33,6 +33,7 @@ I recommend the following online courses for software engineering managers.
 
 ## Coaching
 - [The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](https://www.goodreads.com/book/show/29342515-the-coaching-habit)
+- [Coaching for Performance: GROWing Human Potential and Purpose - the Principles and Practice of Coaching and Leadership](https://www.goodreads.com/book/show/949515.Coaching_for_Performance)
 
 # Communities 
 
