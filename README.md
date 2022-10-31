@@ -12,6 +12,19 @@ This list contains resources for software engineering leaders to level up. Being
 ## Managing Managers
 
 # Managing Teams
+
+## Ten characteristics of well-functioning teams
+- Purpose: Members proudly share a sense of why the team exists and are invested in accomplishing its mission and goals.
+- Priorities: Members know what needs to be done next, by whom, and by when to achieve team goals.
+- Roles: Members know their roles in getting tasks done and when to allow a more skillful member to do a certain task.
+- Decisions: Authority and decision-making lines are clearly understood.
+- Conflict: Conflict is dealt with openly and is considered important to decision-making and personal growth.
+- Personal traits: members feel their unique personalities are appreciated and well utilized.
+- Norms: Group norms for working together are set and seen as standards for every one in the groups.
+- Effectiveness: Members find team meetings efficient and productive and look forward to this time together.
+- Success: Members know clearly when the team has met with success and share in this equally and proudly.
+- Training: Opportunities for feedback and updating skills are provided and taken advantage of by team members.
+
 ## Hiring
 ## Onboarding
 ## Engineering Team Metrics
@@ -40,3 +53,5 @@ I recommend the following online courses for software engineering managers.
 
 - [Rands Leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/)
 
+# Leadership Frameworks 
+- Vision, Alignment, Execution 
