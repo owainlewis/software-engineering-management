@@ -12,6 +12,10 @@ This list contains resources for software engineering leaders to level up. Being
 ## Managing Managers
 
 # Managing Teams
+## Hiring
+## Onboarding
+## Engineering Team Metrics
+
 # Managing Projects
 
 # Online Courses 
