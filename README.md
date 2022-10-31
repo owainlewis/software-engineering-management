@@ -9,10 +9,10 @@ This list contains resources for software engineering leaders to level up. Being
 ## 1-1 Meetings
 ## Giving Feedback
 ## Coaching
+## Managing Managers
 
 # Managing Teams
 # Managing Projects
-# Managing Managers
 
 # Online Courses 
 I recommend the following online courses for software engineering managers. 
