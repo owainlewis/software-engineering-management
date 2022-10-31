@@ -20,6 +20,11 @@ I recommend the following online courses for software engineering managers.
 ## General 
 - [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.goodreads.com/book/show/33369254-the-manager-s-path])
 - [When They Win, You Win: Being a Great Manager Is Simpler Than You Think](https://www.goodreads.com/book/show/58724926-when-they-win-you-win)
+- [Radical Candor: Be a Kickass Boss Without Losing Your Humanity](https://www.goodreads.com/book/show/29939161-radical-candor)
+- [The Making of a Manager: What to Do When Everyone Looks to You](https://www.goodreads.com/book/show/38821039-the-making-of-a-manager)
+
+## Coaching
+- [The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](https://www.goodreads.com/book/show/29342515-the-coaching-habit)
 
 # Communities 
 
