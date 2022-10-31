@@ -1,6 +1,6 @@
 # Awesome Software Engineering Management
 
-This list contains resources for software engineering leaders to level up. Being a software engineering manager is hard and this list will help you developer your management and leadership skills. 
+This list contains resources for software engineering leaders to level up. Being a software engineering manager is hard. This list will help you develop your management and leadership skills. 
 
 # Managing Yourself
 
