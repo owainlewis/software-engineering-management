@@ -10,6 +10,7 @@ This list contains resources for software engineering leaders to level up. Being
 ## Giving Feedback
 ## Coaching
 ## Managing Managers
+## Delegating Effectively
 
 # Managing Teams
 
