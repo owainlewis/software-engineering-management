@@ -70,6 +70,7 @@ I recommend the following online courses for software engineering managers.
 - [Become an Effective Software Engineering Manager](https://www.goodreads.com/book/show/50363684-become-an-effective-software-engineering-manager)
 - [An Elegant Puzzle: Systems of Engineering Management](https://www.goodreads.com/book/show/45303387-an-elegant-puzzle)
 - [Resilient Management](https://www.goodreads.com/book/show/45767533-resilient-management)
+- [The Work of Leaders: How Vision, Alignment, and Execution Will Change the Way You Lead](https://www.goodreads.com/en/book/show/17351785-the-work-of-leaders)
 
 ## Coaching
 - [The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](https://www.goodreads.com/book/show/29342515-the-coaching-habit)
