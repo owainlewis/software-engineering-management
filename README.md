@@ -10,6 +10,9 @@ This list contains resources for software engineering leaders to level up. Being
 - [The Art Of The Awkward 1:1](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c)
 - [The Secret To Effective 1:1s](http://www.effectiveengineer.com/blog/secret-to-effective-one-on-ones)
 
+### 1-1 Question Bank
+[Powerful questions](1-1-Questions.md)
+
 ## Giving Feedback
 ## Coaching
 ## Managing Managers
