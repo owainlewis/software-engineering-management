@@ -15,6 +15,9 @@ This list contains resources for software engineering leaders to level up. Being
 
 ## Giving Feedback
 ## Coaching
+### GROW 
+GROW (Goal, Reality, Options, Will) is a popular coaching method. 
+
 ## Managing Managers
 ## Delegating Effectively
 
